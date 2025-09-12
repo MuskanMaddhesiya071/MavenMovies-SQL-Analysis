@@ -19,11 +19,3 @@ join film f
 on f.film_id=fa.film_id
 where f.title like '%frost%head%';
 
-
--- Pull all the films acted by the actor ‘Will Wilson’.
-select * from actor;
-
-
-
-
-
