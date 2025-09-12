@@ -19,3 +19,11 @@ join film f
 on f.film_id=fa.film_id
 where f.title like '%frost%head%';
 
+-- Pull all the films acted by the actor ‘Will Wilson’.
+select f.title 'Will Wilson Films'
+from actor a
+join film_actor fa
+on a.actor_id=fa.actor_id
+join film f
+on fa.film_id=f.film_id
+where concat(first_name, ' ', last_name) ='Will Wilson';
