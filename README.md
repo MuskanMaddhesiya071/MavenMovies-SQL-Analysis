@@ -70,7 +70,7 @@ The link of Sql file attached below contains 6 queries using which we retrieve t
 
 [SQL Analysis - 5](https://github.com/MuskanMaddhesiya071/MavenMovies-SQL-Analysis/blob/main/mavenmovies%20assignment%20solution%205.sql)
 
-[Advanced]
+[MavenMovies Advanced Analytics](https://github.com/MuskanMaddhesiya071/MavenMovies-SQL-Analysis/blob/main/Mavenmovies%20Advanced%20Analytics.sql)
 
 # MavenMovies_SQL_PowerBI
 - Creating Dashboard to visualize product and customers trends
